@@ -48,6 +48,10 @@ Multistep Form (Reactjs + Formik + Yup) => 🔗 https://ahm-signup.netlify.app/
 * GraphQl
 * Serverless Lambda Functions
 
+(Serverless) 
+
+* Netlify
+
 (Database)
 
 * FaunaDB
