@@ -1,10 +1,10 @@
-# 👋 Hi, I’m @Mahmedabid
+# 👋 Hi, I’m @Mahmadabid
 
 # ✔️ Netlify Serverless Web Developer | Reactjs, Nodejs | JAM Stack
 
 ### 📫 How to reach me:
 
-:octocat: Github: => 🔗 https://github.com/Mahmedabid/
+:octocat: Github: => 🔗 https://github.com/Mahmadabid/
 
 🔵 Facebook: => 🔗 https://www.facebook.com/MAhmad157/
 
