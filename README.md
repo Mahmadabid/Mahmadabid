@@ -9,6 +9,7 @@
 🔵 Facebook: => 🔗 https://www.facebook.com/MAhmad157/
 
 ### 🏅 Projects :
+Macro Compliance Tracker (NextJs + MongoDB) => 🔗 https://compilance-tracker.vercel.app/
 
 Diaries Manager (ReactJs + Netlify) => 🔗 https://ahm-diaryapp.netlify.app/
 
@@ -32,6 +33,7 @@ Multistep Form (Reactjs + Formik + Yup) => 🔗 https://ahm-signup.netlify.app/
 
 * CSS
 * Material UI
+* Tailwind css
 
 (Front-End)
 
@@ -39,7 +41,7 @@ Multistep Form (Reactjs + Formik + Yup) => 🔗 https://ahm-signup.netlify.app/
 * Typescript
 * React Js (CSR)
 * Gatsby Js (SSG)
-* PWA
+* Next Js (SSR)
 
 (Back-End)
 
@@ -55,10 +57,12 @@ Multistep Form (Reactjs + Formik + Yup) => 🔗 https://ahm-signup.netlify.app/
 (Database)
 
 * FaunaDB
+* MongoDB
 
 (CMS)
 
 * Contentful
+* Strapi
 
 (Tools)
 
@@ -73,4 +77,5 @@ Multistep Form (Reactjs + Formik + Yup) => 🔗 https://ahm-signup.netlify.app/
 * Netlify
 * Firebase
 * Heroku
+* Vercel
 * Gatsby Cloud
