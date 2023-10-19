@@ -63,6 +63,11 @@ Multistep Form (Reactjs + Formik + Yup) => 🔗 https://ahm-signup.netlify.app/
 * FaunaDB
 * MongoDB
 
+(Authentication)
+* Auth0
+* Netlify auth
+* Firebase
+
 (CMS)
 
 * Contentful
