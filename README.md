@@ -2,7 +2,7 @@
 
 # ✔️ Software Engineer & Toolmaker | VS Code Extensions, Browser Automation, Desktop Apps
 
-[![GitHub Sponsors](https://img.shields.io/github/sponsors/Mahmadabid?style=flat&logo=github&color=ea4aaa)](https://github.com/sponsors/Mahmadabid)
+[![GitHub Sponsors](https://img.shields.io/github/sponsors/Mahmadabid?style=flat-square&logo=github&color=ea4aaa&label=sponsor)](https://github.com/sponsors/Mahmadabid)
 [![VS Code Extension](https://img.shields.io/badge/VS_Code_Extension-110k+_Installs-007acc?style=flat-square&logo=visual-studio-code&logoColor=white)](https://marketplace.visualstudio.com/items?itemName=Muhammad-Ahmad.xlsx-viewer)
 
 ### 📫 How to reach me:
@@ -43,77 +43,20 @@ Multistep Form (Reactjs + Formik + Yup) => 🔗 https://ahm-signup.netlify.app/
 
 ### Technologies I Know
 
-* HTML
+#### Automation & Scraper Scripts
+* Puppeteer / Puppeteer-core
+* Browser Automation & Scraping Frameworks
+* DOM Parsing & Data Extraction Pipelines
 
-(Styling)
-
-* CSS
-* Material UI
-* Tailwind css
-* Semantic Design Systems
-
-(Front-End & Desktop)
-
-* Javascript (Advanced)
-* Typescript
-* React Js (CSR)
-* Gatsby Js (SSG)
-* Next Js (SSR)
+#### Tooling & Desktop Architecture
 * Electron (Desktop App Architecture)
-
-(Back-End & Systems)
-
-* Node Js
-* Rest API
-* GraphQl
-* Serverless Lambda Functions
-* Rust
-* WebAssembly (WASM)
-
-(Automation & Scraping)
-
-* Puppeteer-core / Puppeteer
-* DOM Parsing Pipelines
-
-(Serverless) 
-
-* Netlify
-
-(Forms)
-
-* Google forms at backend
-
-(Database)
-
-* FaunaDB
-* MongoDB
-* Local-first caching architectures
-
-(Authentication)
-* Auth0
-* Netlify auth
-* Firebase
-
-(CMS)
-
-* Contentful
-* Strapi
-
-(Tools & Ecosystems)
-
 * VS Code Extension API
-* WinUI / Microsoft Store App Delivery
-* Figma
-* Git (and Github)
-* GitHub Actions
-* Web Animations
-* Storybook
+* Microsoft Store App Delivery / WinUI Packaging
+* GitHub Actions (Automated CI/CD Releases)
 
-(Deployment)
-
-* Surge
-* Netlify
-* Firebase
-* Heroku
-* Vercel
-* Gatsby Cloud
+#### Development Stack
+* Node.js
+* TypeScript / JavaScript (ESNext)
+* React.js
+* Next.js
+* MongoDB
