@@ -1,6 +1,9 @@
 # 👋 Hi, I’m @Mahmadabid
 
-# ✔️ Netlify Serverless Web Developer | Reactjs, Nodejs | JAM Stack
+# ✔️ Software Engineer & Toolmaker | VS Code Extensions, Browser Automation, Desktop Apps
+
+[![GitHub Sponsors](https://img.shields.io/github/sponsors/Mahmadabid?style=flat&logo=github&color=ea4aaa)](https://github.com/sponsors/Mahmadabid)
+[![Marketplace Downloads](https://img.shields.io/visualstudio/marketplace/d/Muhammad-Ahmad.xlsx-viewer?style=flat&logo=visual-studio-code&label=VS%20Code%20Downloads)](https://marketplace.visualstudio.com/items?itemName=Muhammad-Ahmad.xlsx-viewer)
 
 ### 📫 How to reach me:
 
@@ -8,22 +11,24 @@
 
 🔵 Facebook: => 🔗 https://www.facebook.com/MAhmad157/
 
+💖 Sponsor: => 🔗 https://github.com/sponsors/Mahmadabid
+
 ### 🏅 Projects :
-Macro Compliance Tracker (NextJs + MongoDB) => 🔗 https://compilance-tracker.vercel.app/
 
-Diaries Manager (ReactJs + Netlify) => 🔗 https://ahm-diaryapp.netlify.app/
+XLSX, CSV, TSV & Markdown Editor (VS Code Extension) => 🔗 https://github.com/Mahmadabid/XLSX-CSV-TSV-MARKDOWN-Editor-Vscode-Extension
+* Production-grade editor with **110,000+ downloads**. Features full in-table spreadsheet editing, Excel formatting retention, theme toggles, KaTeX support, and high-performance **virtualized scrolling** built to effortlessly load and manage heavy tabular datasets right inside the IDE.
 
-Shoe Store (ReactJs) => 🔗 http://ahm-shoestore.surge.sh/
+Vibed Puppet - Local Browser Automation App => 🔗 https://github.com/Mahmadabid/vibed-puppet
+* A privacy-first, local browser automation desktop application published on the Microsoft Store. Engineered to handle heavy, secure automation workflows (like bulk history clearing and workspace form parsing) entirely on your local machine without third-party servers or expensive API gateways.
 
-Gatsby Blog Website (GatsbyJs) => 🔗 https://ahm-contentful-blog.netlify.app/
+File Exporter for AI Chatbots (VS Code Extension) => 🔗 https://github.com/Mahmadabid/File-Exporter-Vscode-Extension
+* A workflow optimization extension for VS Code that streamlines sharing context with LLMs. Built with an intuitive interactive file tree, smart filtering rules (`node_modules`, `.git`, binary files), and token-saving layout configurations to format local codebases perfectly for ChatGPT, Claude, and LMArena.
 
-Animated DevFolio (ReactJs) => 🔗 https://mahmad.netlify.app/
+Twitter/X History Cleaner Automation => 🔗 https://github.com/Mahmadabid/twitter-x-cleaner-automation
+* Core Node.js script utilizing Puppeteer to handle direct local platform clearing actions through standard browser instances safely without hitting official platform API barriers.
 
-Online Quiz (PWA + ReactJs) => 🔗 https://ahm-quizapp.netlify.app/
-
-Space-X launches (ReactJs + Typescript) => 🔗 https://ahm-spacex.netlify.app/
-
-Multistep Form (Reactjs + Formik + Yup) => 🔗 https://ahm-signup.netlify.app/
+Google Forms Prefill Field Extractor => 🔗 https://github.com/Mahmadabid/google-forms-prefill-extractor
+* A lightweight terminal utility designed to scan complex form schemas (grids, linear scales, dropdowns) and auto-generate clean JSON entry logs for structured automation pipelines.
 
 ### Technologies I Know
 
@@ -34,57 +39,41 @@ Multistep Form (Reactjs + Formik + Yup) => 🔗 https://ahm-signup.netlify.app/
 * CSS
 * Material UI
 * Tailwind css
+* Semantic Design Systems
 
-(Front-End)
+(Front-End & Desktop)
 
 * Javascript (Advanced)
 * Typescript
 * React Js (CSR)
-* Gatsby Js (SSG)
 * Next Js (SSR)
+* Electron (Desktop App Architecture)
 
-(Back-End)
+(Back-End & Systems)
 
 * Node Js
 * Rest API
-* GraphQl
-* Serverless Lambda Functions
+* Rust
+* WebAssembly (WASM)
 
-(Serverless) 
+(Automation & Scraping)
 
-* Netlify
-
-(Forms)
-
-* Google forms at backend
+* Puppeteer-core / Puppeteer
+* DOM Parsing Pipelines
 
 (Database)
 
-* FaunaDB
 * MongoDB
+* Local-first caching architectures
 
-(Authentication)
-* Auth0
-* Netlify auth
-* Firebase
+(Tools & Ecosystems)
 
-(CMS)
-
-* Contentful
-* Strapi
-
-(Tools)
-
-* Figma
+* VS Code Extension API
+* WinUI / Microsoft Store App Delivery
 * Git (and Github)
-* Web Animations
-* Storybook
+* GitHub Actions
 
 (Deployment)
 
-* Surge
-* Netlify
-* Firebase
-* Heroku
 * Vercel
-* Gatsby Cloud
+* Netlify
