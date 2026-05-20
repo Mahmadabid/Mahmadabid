@@ -7,7 +7,7 @@
 
 ### 📫 How to reach me:
 
-:octocat: Github: => 🔗 https://github.com/Mahmadabid/
+[![GitHub](https://img.shields.io/badge/Github-24292e?style=flat-square&logo=github&logoColor=white)](https://github.com/Mahmadabid/) => 🔗 https://github.com/Mahmadabid/
 
 🔵 Facebook: => 🔗 https://www.facebook.com/MAhmad157/
 
