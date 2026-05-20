@@ -3,7 +3,7 @@
 # ✔️ Software Engineer & Toolmaker | VS Code Extensions, Browser Automation, Desktop Apps
 
 [![GitHub Sponsors](https://img.shields.io/github/sponsors/Mahmadabid?style=flat&logo=github&color=ea4aaa)](https://github.com/sponsors/Mahmadabid)
-[![Marketplace Downloads](https://img.shields.io/visualstudio/marketplace/d/Muhammad-Ahmad.xlsx-viewer?style=flat&logo=visual-studio-code&label=VS%20Code%20Downloads)](https://marketplace.visualstudio.com/items?itemName=Muhammad-Ahmad.xlsx-viewer)
+[![Marketplace Downloads](https://img.shields.io/visualstudio/marketplace/d/Muhammad-Ahmad.xlsx-viewer?style=flat-square&logo=visual-studio-code&logoColor=white&color=007acc&label=installs)](https://marketplace.visualstudio.com/items?itemName=Muhammad-Ahmad.xlsx-viewer)
 
 ### 📫 How to reach me:
 
