@@ -16,19 +16,30 @@
 ### 🏅 Projects :
 
 XLSX, CSV, TSV & Markdown Editor (VS Code Extension) => 🔗 https://github.com/Mahmadabid/XLSX-CSV-TSV-MARKDOWN-Editor-Vscode-Extension
-* Production-grade editor with **110,000+ downloads**. Features full in-table spreadsheet editing, Excel formatting retention, theme toggles, KaTeX support, and high-performance **virtualized scrolling** built to effortlessly load and manage heavy tabular datasets right inside the IDE.
+* **110K+ Installs:** Production-grade editor for tabular datasets inside VS Code.
+* **Key Features:** Full in-table editing, Excel formatting retention, theme toggles, and KaTeX support.
+* **Performance:** Powered by virtualized scrolling to efficiently handle heavy files without UI lag.
 
-Vibed Puppet - Local Browser Automation App => 🔗 https://github.com/Mahmadabid/vibed-puppet
-* A privacy-first, local browser automation desktop application published on the Microsoft Store. Engineered to handle heavy, secure automation workflows (like bulk history clearing and workspace form parsing) entirely on your local machine without third-party servers or expensive API gateways.
+🤖 Vibed Puppet - Local Browser Automation App => 🔗 https://github.com/Mahmadabid/vibed-puppet
+* **Architecture:** Privacy-first desktop application built with Electron and Puppeteer, published on the Microsoft Store.
+* **Capabilities:** Handles heavy, native browser automation (such as bulk X/Twitter history clearing and complex Google Form schema field extraction) completely on your local machine.
+* **Security:** Runs 100% locally without intermediate servers or expensive platform API gateways.
 
-File Exporter for AI Chatbots (VS Code Extension) => 🔗 https://github.com/Mahmadabid/File-Exporter-Vscode-Extension
-* A workflow optimization extension for VS Code that streamlines sharing context with LLMs. Built with an intuitive interactive file tree, smart filtering rules (`node_modules`, `.git`, binary files), and token-saving layout configurations to format local codebases perfectly for ChatGPT, Claude, and LMArena.
+Macro Compliance Tracker (NextJs + MongoDB) => 🔗 https://compilance-tracker.vercel.app/
 
-Twitter/X History Cleaner Automation => 🔗 https://github.com/Mahmadabid/twitter-x-cleaner-automation
-* Core Node.js script utilizing Puppeteer to handle direct local platform clearing actions through standard browser instances safely without hitting official platform API barriers.
+Diaries Manager (ReactJs + Netlify) => 🔗 https://ahm-diaryapp.netlify.app/
 
-Google Forms Prefill Field Extractor => 🔗 https://github.com/Mahmadabid/google-forms-prefill-extractor
-* A lightweight terminal utility designed to scan complex form schemas (grids, linear scales, dropdowns) and auto-generate clean JSON entry logs for structured automation pipelines.
+Shoe Store (ReactJs) => 🔗 http://ahm-shoestore.surge.sh/
+
+Gatsby Blog Website (GatsbyJs) => 🔗 https://ahm-contentful-blog.netlify.app/
+
+Animated DevFolio (ReactJs) => 🔗 https://mahmad.netlify.app/
+
+Online Quiz (PWA + ReactJs) => 🔗 https://ahm-quizapp.netlify.app/
+
+Space-X launches (ReactJs + Typescript) => 🔗 https://ahm-spacex.netlify.app/
+
+Multistep Form (Reactjs + Formik + Yup) => 🔗 https://ahm-signup.netlify.app/
 
 ### Technologies I Know
 
@@ -46,6 +57,7 @@ Google Forms Prefill Field Extractor => 🔗 https://github.com/Mahmadabid/googl
 * Javascript (Advanced)
 * Typescript
 * React Js (CSR)
+* Gatsby Js (SSG)
 * Next Js (SSR)
 * Electron (Desktop App Architecture)
 
@@ -53,6 +65,8 @@ Google Forms Prefill Field Extractor => 🔗 https://github.com/Mahmadabid/googl
 
 * Node Js
 * Rest API
+* GraphQl
+* Serverless Lambda Functions
 * Rust
 * WebAssembly (WASM)
 
@@ -61,19 +75,45 @@ Google Forms Prefill Field Extractor => 🔗 https://github.com/Mahmadabid/googl
 * Puppeteer-core / Puppeteer
 * DOM Parsing Pipelines
 
+(Serverless) 
+
+* Netlify
+
+(Forms)
+
+* Google forms at backend
+
 (Database)
 
+* FaunaDB
 * MongoDB
 * Local-first caching architectures
+
+(Authentication)
+* Auth0
+* Netlify auth
+* Firebase
+
+(CMS)
+
+* Contentful
+* Strapi
 
 (Tools & Ecosystems)
 
 * VS Code Extension API
 * WinUI / Microsoft Store App Delivery
+* Figma
 * Git (and Github)
 * GitHub Actions
+* Web Animations
+* Storybook
 
 (Deployment)
 
-* Vercel
+* Surge
 * Netlify
+* Firebase
+* Heroku
+* Vercel
+* Gatsby Cloud
