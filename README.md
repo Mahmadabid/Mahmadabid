@@ -1,9 +1,10 @@
-# 👋 Hi, I’m @Mahmadabid
+# 👋 Hi, I'm @Mahmadabid
 
 # ✔️ Software Engineer & Toolmaker | VS Code Extensions, Browser Automation, Desktop Apps
 
 [![GitHub Sponsors](https://img.shields.io/github/sponsors/Mahmadabid?style=flat-square&logo=github&color=24292e&label=sponsor)](https://github.com/sponsors/Mahmadabid)
-[![VS Code Extension](https://img.shields.io/badge/VS_Code_Extension-110k+_Installs-007acc?style=flat-square&logo=visual-studio-code&logoColor=white)](https://marketplace.visualstudio.com/items?itemName=Muhammad-Ahmad.xlsx-viewer)
+[![VS Code Marketplace Installs](https://vsmarketplacebadges.dev/installs-short/muhammad-ahmad.xlsx-viewer.svg)](https://marketplace.visualstudio.com/items?itemName=muhammad-ahmad.xlsx-viewer)
+[![Open VSX Downloads](https://img.shields.io/open-vsx/dt/muhammad-ahmad/xlsx-viewer?style=flat-square&logo=eclipseide&label=Open%20VSX)](https://open-vsx.org/extension/muhammad-ahmad/xlsx-viewer)
 
 ### 📫 How to reach me:
 
@@ -15,12 +16,23 @@
 
 ### 🏅 Projects :
 
-XLSX, CSV, TSV & Markdown Editor (VS Code Extension) => 🔗 https://github.com/Mahmadabid/XLSX-CSV-TSV-MARKDOWN-Editor-Vscode-Extension
-* **110K+ Installs:** Production-grade editor for tabular datasets inside VS Code.
-* **Key Features:** Full in-table editing, Excel formatting retention, theme toggles, and KaTeX support.
-* **Performance:** Powered by virtualized scrolling to efficiently handle heavy files without UI lag.
+### 🏅 Projects
 
-🤖 Vibed Puppet - Local Browser Automation App => 🔗 https://github.com/Mahmadabid/vibed-puppet
+**XLSX, CSV, TSV & Markdown Editor (VS Code Extension)** => 🔗 https://github.com/Mahmadabid/XLSX-CSV-TSV-MARKDOWN-Editor-Vscode-Extension
+
+- **Marketplace Reach:** ![VS Code Installs](https://vsmarketplacebadges.dev/installs-short/muhammad-ahmad.xlsx-viewer.svg) ![Open VSX Downloads](https://img.shields.io/open-vsx/dt/muhammad-ahmad/xlsx-viewer?style=flat-square&logo=eclipseide&label=Open%20VSX)
+- **Key Features:** Full in-table editing, Excel formatting retention, theme support, and KaTeX rendering.
+- **Performance:** Virtualized scrolling for efficiently handling large datasets without UI lag.
+
+**OpenPart – Open-Source Partition Manager (Rust + Tauri)** => 🔗 https://github.com/Mahmadabid/openpart
+
+- **Architecture:** Native desktop partition management application built with Rust and Tauri.
+- **Safety First:** Dry-run previews, snapshots, and checksum verification to help prevent destructive operations.
+- **Privacy:** No telemetry, cloud services, subscriptions, or unnecessary background processes.
+- **Philosophy:** Free and open-source, with a focus on transparency, security, and user control.
+
+**Vibed Puppet - Local Browser Automation App** => 🔗 https://github.com/Mahmadabid/vibed-puppet
+
 * **Architecture:** Privacy-first desktop application built with Electron and Puppeteer, published on the Microsoft Store.
 * **Capabilities:** Handles heavy, native browser automation (such as bulk X/Twitter history clearing and complex Google Form schema field extraction) completely on your local machine.
 * **Security:** Runs 100% locally without intermediate servers or expensive platform API gateways.
