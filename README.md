@@ -16,7 +16,6 @@
 
 ### 🏅 Projects :
 
-### 🏅 Projects
 
 **XLSX, CSV, TSV & Markdown Editor (VS Code Extension)** => 🔗 https://github.com/Mahmadabid/XLSX-CSV-TSV-MARKDOWN-Editor-Vscode-Extension
 
